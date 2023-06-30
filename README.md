@@ -24,9 +24,13 @@ CAPCOM サバイバル ハッカソン予選 通過
 第20回読書感想画中央コンクール 羽曳野市 優秀賞
 
 ## 📜Certification
+2023-06<br>
+応用情報技術者試験 合格<br>
+Applied Information Technology Engineer Examination Passed
 
-2021<br>
-基本情報技術者試験 Fundamental Information Technology Engineer Examination
+2021-04<br>
+基本情報技術者試験 合格<br>
+Fundamental Information Technology Engineer Examination Passed
 
 ## 🏫Educational Background 
 2022-03<br>
