@@ -14,6 +14,9 @@
 [mixi Unity Engine Challenge#2](https://mixi-recruit.snar.jp/jobboard/detail.aspx?id=0ESKsZ2ADf8sKkiqWCwzoA) [優勝](https://twitter.com/yukad2_/status/1337703250934448128?s=20&t=MdA1dG3J2ZE5Y2SzpNq2IQ)
 
 ### 🥈Others
+2023-08-25<br>
+[AWS GameDay: League of Legends Esports Edition @ CEDEC 2023 Day2](https://pages.awscloud.com/cedec-gameday-reg.html) 2位
+
 2023-01-12<br>
 [かえでラボBooThtoreフォトコン](https://twitter.com/BooThtore/status/1613395523620438017?s=20&t=MdA1dG3J2ZE5Y2SzpNq2IQ) 運営陣投票部門 1位
 
