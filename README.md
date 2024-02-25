@@ -1,5 +1,5 @@
 # 🐟
-おさかな天国
+さかなー
 
 ## 💎Prize
 ### 🏆Trophies
@@ -43,3 +43,8 @@ Bachelor of Education, Osaka Kyoiku Univ.
 2018-03<br>
 大阪府立天王寺高等学校 卒業<br>
 Graduated, Osaka Prefectural TENNOJI High School
+
+## ⭐Skills
+- Maya Scripting
+- Server
+- **Highend** odd-job
